@@ -1,5 +1,7 @@
 # deskMy Desktop Releases
 
+[Para baixar a deskMy Desktop, clique aqui!](https://deskmy-desktop-update-server.vercel.app/download/)
+
 ## Como usar a deskMy Desktop
 
 Para utilizar a deskMy Desktop, siga os passos abaixo:
@@ -23,5 +25,3 @@ Para utilizar o deskMy, é necessário ter os seguintes requisitos mínimos de s
 - Espaço em disco: 200 MB ou superior.
 
 Esperamos que você aproveite a deskMy e tenha uma experiência produtiva e organizada com sua equipe!
-
-
